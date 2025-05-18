@@ -34,7 +34,7 @@ MizuLab explores new forms of human-assistive tools through:
 ## 📫 Contact
 
 Currently experimental and not accepting external requests.  
-Feel free to open an [Issue](https://github.com/mizulab-dev/tailshell/issues) for feedback or collaboration ideas.
+Feel free to open an [Issue](https://github.com/mizulab-dev/mizulab-dev/issues) for feedback or collaboration ideas.
 
 ---
 
