@@ -27,7 +27,7 @@ MizuLab explores new forms of human-assistive tools through:
 - Shape-focused interaction design  
 - Soft, mechanical, and personal device studies  
 
-研究の延長線上にある**“身につける道具”**の試作・公開・再設計を目的としています。
+研究の延長線上にある“身につける道具”の試作・公開・再設計を目的としています。
 
 ---
 
