@@ -8,8 +8,7 @@
 
 ### [TailShell](https://github.com/mizulab-dev/tailshell)  
 A structure to reshape and stabilize a bundle of long hair, mimicking the form of a tail.  
-髪束をしっぽ状に変形・固定する実験的構造具です。  
-→ STL and docs coming soon.
+髪束をしっぽ状に変形・固定する実験的道具です。  
 
 <!-- 他のプロジェクトを将来的に追加する場合：
 
